@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    background-color: aquamarine;
+}
+p{
+    background-color: blueviolet;
+}
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.box{
+    width: 30%;
+    height: 60px;
+    background-color: burlywood;
+    display: flex;
+    margin: 5px;
+    justify-content: center;
+    border: 2px solid black;
+}
